@@ -47,7 +47,9 @@ That gap kept bothering me. So I closed it.
 
 Here's what makes SparkAI different from every other pitch in this room:
 
-> **Over 1,000 people used SparkAI during a single exhibition period — with zero paid advertising.**
+> **Over 1626 people used SparkAI during a single exhibition period — with zero paid advertising.**
+ ## 📊 Analytics Proof
+![Traffic Analytics](analytics-proof.png)
 
 No campaigns. No sponsored posts. No marketing budget.
 

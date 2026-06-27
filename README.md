@@ -3,6 +3,8 @@
 **Tatweer Hackathon 2026 · Challenge 3: The Data Gap for Local Entrepreneurs**
 🔗 Live & Free: [sparkai.me](https://www.sparkai.me)
 
+## 🎬 Demo Video
+[Watch the live demo](https://youtu.be/u9d0xOnjpIA)
 ---
 
 ## The Hard Truth
